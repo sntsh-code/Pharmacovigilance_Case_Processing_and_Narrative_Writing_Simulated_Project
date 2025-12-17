@@ -35,20 +35,20 @@ Identifiable reporter
 Suspect drug
 Adverse event
 
-Cases were classified as valid or invalid based strictly on documented information.
+3. Cases were classified as valid or invalid based strictly on documented information.
 
-3. Seriousness and Timeline Evaluation
+4. Seriousness and Timeline Evaluation
 Seriousness classified according to regulatory definitions
 Seriousness criteria documented where applicable
 Regulatory due dates calculated for training purposes to demonstrate compliance awareness
 
-4. Narrative Writing
+5. Narrative Writing
 Five cases selected for detailed narrative preparation
 Narratives written in standard pharmacovigilance format
 Included patient details, drug exposure, event description, action taken, concomitant medications, medical history, and outcome
 Missing information clearly documented as not reported
 
-5. Quality Control and Compliance Review
+6. Quality Control and Compliance Review
 Data completeness checks
 Internal consistency review
 Appropriate handling of missing or incomplete information
