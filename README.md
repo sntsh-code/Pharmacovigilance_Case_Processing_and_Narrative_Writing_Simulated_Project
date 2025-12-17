@@ -14,67 +14,67 @@ This project is a simulated pharmacovigilance exercise designed to demonstrate f
 
 # Dataset Description
 
-Total cases: 30 simulated ICSRs
-Case mix: Valid and invalid cases
-Data format: Excel-based structured dataset
-Data scope: Patient demographics, suspect drug, adverse event, MedDRA coding, seriousness, outcomes, timelines, and compliance indicators
-No real patient data, healthcare professional information, or live safety cases were used.
+1. Total cases: 30 simulated ICSRs
+2. Case mix: Valid and invalid cases
+3. Data format: Excel-based structured dataset
+4. Data scope: Patient demographics, suspect drug, adverse event, MedDRA coding, seriousness, outcomes, timelines, and compliance indicators
+5. No real patient data, healthcare professional information, or live safety cases were used.
 
 # Key Activities Performed
 
 1. Case Intake and Documentation
-Assigned unique case IDs
-Recorded reporter type and patient information
-Documented suspect drug(s), indication, and adverse event(s)
-Captured key dates for timeline assessment
+a. Assigned unique case IDs
+b. Recorded reporter type and patient information
+c. Documented suspect drug(s), indication, and adverse event(s)
+d. Captured key dates for timeline assessment
 
-2. Case Validity Assessment
-Each case was assessed against the four minimum ICSR criteria:
-Identifiable patient
-Identifiable reporter
-Suspect drug
-Adverse event
+3. Case Validity Assessment
+a. Each case was assessed against the four minimum ICSR criteria:
+b. Identifiable patient
+c. Identifiable reporter
+d. Suspect drug
+e. Adverse event
 
-3. Cases were classified as valid or invalid based strictly on documented information.
+4. Cases were classified as valid or invalid based strictly on documented information.
 
-4. Seriousness and Timeline Evaluation
-Seriousness classified according to regulatory definitions
-Seriousness criteria documented where applicable
-Regulatory due dates calculated for training purposes to demonstrate compliance awareness
+5. Seriousness and Timeline Evaluation
+a. Seriousness classified according to regulatory definitions
+b. Seriousness criteria documented where applicable
+c. Regulatory due dates calculated for training purposes to demonstrate compliance awareness
 
-5. Narrative Writing
-Five cases selected for detailed narrative preparation
-Narratives written in standard pharmacovigilance format
-Included patient details, drug exposure, event description, action taken, concomitant medications, medical history, and outcome
-Missing information clearly documented as not reported
+6. Narrative Writing
+a. Five cases selected for detailed narrative preparation
+b. Narratives written in standard pharmacovigilance format
+c. Included patient details, drug exposure, event description, action taken, concomitant medications, medical history, and outcome
+d. Missing information clearly documented as not reported
 
-6. Quality Control and Compliance Review
-Data completeness checks
-Internal consistency review
-Appropriate handling of missing or incomplete information
-Final QC and compliance status assigned for each case
+7. Quality Control and Compliance Review
+a. Data completeness checks
+b. Internal consistency review
+c. Appropriate handling of missing or incomplete information
+d. Final QC and compliance status assigned for each case
 
 # Project Structure
 
---├── Dataset/
+a.├── Dataset/
              └── Simulated_ICSR_Dataset.xlsx
---├── Narratives/
+b.├── Narratives/
                 └── ICSR_Narratives.docx
---├── Documentation/
+c.├── Documentation/
                    └── Project_Report.pdf
---├── README.md
+d.├── README.md
 
 # Tools and Standards Referenced
-Microsoft Excel (data documentation and tracking)
-MedDRA terminology (Preferred Term and SOC level – simulated use)
-Pharmacovigilance documentation practices
-ICSR minimum validity principles
+a. Microsoft Excel (data documentation and tracking)
+b. MedDRA terminology (Preferred Term and SOC level – simulated use)
+c. Pharmacovigilance documentation practices
+d. ICSR minimum validity principles
 
 # Learning Outcomes
-Practical understanding of ICSR workflows
-Improved documentation discipline
-Exposure to narrative writing standards
-Awareness of compliance and quality expectations in pharmacovigilance operations
+a. Practical understanding of ICSR workflows
+b. Improved documentation discipline
+c. Exposure to narrative writing standards
+d. Awareness of compliance and quality expectations in pharmacovigilance operations
 
 # Disclaimer
 This project is intended solely for academic and training purposes. All data are simulated and do not represent real patients, real adverse events, or actual regulatory submissions.
