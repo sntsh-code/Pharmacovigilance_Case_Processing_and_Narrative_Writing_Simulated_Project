@@ -1,5 +1,5 @@
 */
-Pharmacovigilance Case Processing and Narrative Writing – Simulated Project
+# Pharmacovigilance Case Processing and Narrative Writing – Simulated Project
 
 # Overview
 This project is a simulated pharmacovigilance exercise designed to demonstrate foundational Safety Associate competencies in Individual Case Safety Report (ICSR) processing. The project replicates routine safety case handling activities using a structured mock dataset and standard documentation practices. All data used are simulated and created for academic and training purposes only.
