@@ -55,6 +55,7 @@ Appropriate handling of missing or incomplete information
 Final QC and compliance status assigned for each case
 
 # Project Structure
+
 ├── Dataset/
 │   └── Simulated_ICSR_Dataset.xlsx
 ├── Narratives/
