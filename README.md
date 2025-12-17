@@ -56,13 +56,13 @@ Final QC and compliance status assigned for each case
 
 # Project Structure
 
-├── Dataset/
-│   └── Simulated_ICSR_Dataset.xlsx
-├── Narratives/
-│   └── ICSR_Narratives.docx
-├── Documentation/
-│   └── Project_Report.pdf
-├── README.md
+--├── Dataset/
+             └── Simulated_ICSR_Dataset.xlsx
+--├── Narratives/
+                └── ICSR_Narratives.docx
+--├── Documentation/
+                   └── Project_Report.pdf
+--├── README.md
 
 # Tools and Standards Referenced
 Microsoft Excel (data documentation and tracking)
