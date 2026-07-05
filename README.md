@@ -81,4 +81,4 @@ This project is intended solely for academic and training purposes. All data are
 
 # Author
 Santosh Gitte
-Aspiring Safety Associate – Pharmacovigilance
+Pharmacovigilance
